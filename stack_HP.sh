@@ -6,6 +6,8 @@
 ###################
 ##################################################
 
+#bash script to check cpu, memory, fans, power and uptime in a HP switch stack (x6 max), work for nagios, eon
+
 STATE=3
 PLUGIN_PATH='/srv/eyesofnetwork/nagios/plugins'
 COMMAND_PATH='/bin'
